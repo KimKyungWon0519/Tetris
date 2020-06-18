@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Embedded_Narsha/1.0.0": {
+        "runtime": {
+          "Embedded_Narsha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Embedded_Narsha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

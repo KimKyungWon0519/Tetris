@@ -1,0 +1,13 @@
+C:\Users\gwon0\source\repos\임베디드 나르샤\bin\Debug\netcoreapp3.1\Embedded_Narsha.exe
+C:\Users\gwon0\source\repos\임베디드 나르샤\bin\Debug\netcoreapp3.1\Embedded_Narsha.deps.json
+C:\Users\gwon0\source\repos\임베디드 나르샤\bin\Debug\netcoreapp3.1\Embedded_Narsha.runtimeconfig.json
+C:\Users\gwon0\source\repos\임베디드 나르샤\bin\Debug\netcoreapp3.1\Embedded_Narsha.runtimeconfig.dev.json
+C:\Users\gwon0\source\repos\임베디드 나르샤\bin\Debug\netcoreapp3.1\Embedded_Narsha.dll
+C:\Users\gwon0\source\repos\임베디드 나르샤\bin\Debug\netcoreapp3.1\Embedded_Narsha.pdb
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.AssemblyInfoInputs.cache
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.AssemblyInfo.cs
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.csproj.CoreCompileInputs.cache
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.dll
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.pdb
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.genruntimeconfig.cache
+C:\Users\gwon0\source\repos\임베디드 나르샤\obj\Debug\netcoreapp3.1\Embedded_Narsha.csprojAssemblyReference.cache
